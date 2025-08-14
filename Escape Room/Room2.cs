@@ -23,5 +23,14 @@ internal class Room2
     public static void method2()
     {
 
+        /* 
+         
+        a + b + c = 950
+       
+
+        */
+
+        
+
     }
 }
