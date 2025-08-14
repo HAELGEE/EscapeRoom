@@ -27,7 +27,7 @@ internal class Room2
             for (int b = a + 1; b < 950 - a; b++)
             {
                 int c = 950 - a - b;
-                if (a * a + b * b == c * c)
+                if ((a * a) + (b * b) == c * c)
                 {
                     Console.WriteLine($"a = {a}, b = {b}, c = {c}, abc = {a * b * c}");                   
                 }
